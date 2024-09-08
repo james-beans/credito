@@ -16,7 +16,7 @@
   <br>
   <a href="https://pypi.org/project/credito/"><img alt="Python Version" src="https://img.shields.io/pypi/pyversions/credito?style=for-the-badge&logo=Pypi&logoColor=white"></a>
   <br>
-  <a href="https://pypi.org/project/credito/"><img alt="88x31" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png"></a>
+  <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/badge/licence-GPLv3?style=for-the-badge&logo=GNU"></a>
 </div>
 
 
@@ -26,7 +26,7 @@
 <div align="center">
 
 # License
-This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. See [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) for details.
+This project is licensed under the GNU General Public License v3.0 (GPLv3). See [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html) for details.
 </div>
 <hr>
 
