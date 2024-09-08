@@ -10,9 +10,11 @@
 `pip install credito`
 
 <div align="center">
+<a href="https://github.com/james-beans/credito">
   <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/james-beans/credito?style=for-the-badge&logo=Github">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/james-beans/credito?style=for-the-badge&logo=Github">
   <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-closed/james-beans/credito?style=for-the-badge&logo=Github">
+</a>
   <br>
   <a href="https://pypi.org/project/credito/"><img alt="Python Version" src="https://img.shields.io/pypi/pyversions/credito?style=for-the-badge&logo=Pypi&logoColor=white"></a>
   <br>
