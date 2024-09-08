@@ -1,0 +1,14 @@
+LICENSE.md
+README.md
+setup.py
+credito/__init__.py
+credito/credito.py
+credito.egg-info/PKG-INFO
+credito.egg-info/SOURCES.txt
+credito.egg-info/dependency_links.txt
+credito.egg-info/requires.txt
+credito.egg-info/top_level.txt
+credito/data/credits.cfg
+tests/__init__.py
+tests/conftest.py
+tests/test_credito.py
